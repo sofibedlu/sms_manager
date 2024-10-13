@@ -1,0 +1,11 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_r_sms,access.r.sms,model_r_sms,group_jasminsms_user,1,1,1,1
+access_s_sms,access.s.sms,model_s_sms,group_jasminsms_user,1,1,1,1
+access_filter_sms,access.filter.sms,model_filter_sms,group_jasminsms_user,1,1,1,1
+access_mail_sms,access.mail.sms,model_mail_sms,group_jasminsms_user,1,1,1,1
+access_gateway_sms,access.gateway.sms,model_gateway_sms,group_jasminsms_user,1,1,1,1
+access_number_line,access.number.line,model_number_line,group_jasminsms_user,1,1,1,1
+access_user_sms,access.user.sms,model_list_sms,group_jasminsms_user,1,1,1,1
+access_manager_sms,access.manager.sms,model_list_sms,group_jasminsms_manager,1,1,1,1
+access_admin_sms,access.admin.sms,model_list_sms,group_jasminsms_admin,1,1,1,1
+access_admin_gateway,access.admin.gateway,model_gateway_sms,group_jasminsms_admin,1,1,1,1
